@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sophronia. Verses written occasionally by reading a late scandalous libel designed, An aspersion upon the Lady G-.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06875</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[206]</idno>
+            <idno type="EEBO-CITATION">99885033</idno>
+            <idno type="PROQUEST">ocm99885033</idno>
+            <idno type="VID">182875</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06875)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182875)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A4:2[207])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sophronia. Verses written occasionally by reading a late scandalous libel designed, An aspersion upon the Lady G-.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Seeres,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "As some vile atheist that could ne're agree ..."</note>
+                  <note>Cf. Wing S4696 which has title "Sophronia; verses".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Libel and slander --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182875:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 9 -->
+            <head>SOPHRONIA. VERSES Written occaſionally by Reading A Late Scandalous LIBEL DESIGNED, <hi>An Aſperſion upon the Lady</hi> G—.</head>
+            <l>AS ſome vile Atheiſt that could ne're agree</l>
+            <l>With Conſcience, God, or Chriſtianity,</l>
+            <l>By Hell inſpir'd, prophanes the bleſſed State;</l>
+            <l>Owns no Firſt Cauſe, the Holy Writ do's hate,</l>
+            <l>Blaſphemes the Heavens, and grows a Reprobate;</l>
+            <l>So Envy ſtrove <hi>Sophronia's</hi> Fame to blaſt;</l>
+            <l>
+               <hi>Sophronia,</hi> Angel fair, and wiſe and chaſt;</l>
+            <l>Bleſt <hi>Genius</hi> of a happy Husband's Life,</l>
+            <l>The ſofteſt, mildeſt, and the trueſt Wife;</l>
+            <l>Whoſe Vertue like the God of the gay Morn,</l>
+            <l>Serenely ſhone, and Love did more adorn.</l>
+            <l>And though Malicious Clouds do ſtrive to ſhade</l>
+            <l>It's Glorious Face, and Influence invade;</l>
+            <l>Through the black Miſts her Luſtre ſoon did pierce,</l>
+            <l>And guild with dazling Beams the Univerſe.</l>
+            <l>Ingrateful, Barb'rous and Detracting Age!</l>
+            <l>Thou Scene of Impudent, Ill-natur'd Rage!</l>
+            <l>Epitome of Hell, that art ſo lewd,</l>
+            <l>Thou know'ſt not to diſtinguiſh ill from good;</l>
+            <l>But as a groveling Hog no Bloſſom heeds,</l>
+            <l>Thou root'ſt up Fragrant Flowers with ſtinking Weeds:</l>
+            <l>Be damn'd in thy own Faction, and thy Care,</l>
+            <l>In thy Rebellion curſt, but never dare</l>
+            <l>With impious Breath preſume to blaſt the Fair.</l>
+            <l>Baſe, fordid Age! that doſt not Merit ſee;</l>
+            <l>But uſeſt Beauty juſt like Loyalty,</l>
+            <l>Swoln big with Malice like a poyſonous Toad,</l>
+            <l>And on each Flower vents his venom'd Load,</l>
+            <l>Thou ſpread'ſt thy fatal Dew around the Field,</l>
+            <l>And fragrant Flowers as well as Weeds are kill'd:</l>
+            <l>So Innocence—</l>
+            <l>Purſu'd by th' ignorant, miſtaken Hate,</l>
+            <l>Of th' Noiſie Crowd, making Defence too late,</l>
+            <l>And thought a Villain bears a Villain's Fate;</l>
+            <l>Though in the proof it ſtill as guiltleſs be,</l>
+            <l>As Infant-Love, or Virgin-Modeſty.</l>
+            <l>And thou vile Scribler of this viler Time,</l>
+            <l>That dar'ſt to act this poor unmanly Crime,</l>
+            <l>And Libel her whoſe Worth was ſo ſublime,</l>
+            <l>Ill-Natur'd Fowler, that thy Snare didſt lay,</l>
+            <l>For th' harmleſs Dove, as well as chattering Jay,</l>
+            <l>And knew'ſt not pretty Larks from Birds of prey;</l>
+            <l>Maiſt thou be plung'd in the Infernal pit,</l>
+            <l>The proper Seat of Envy without Wit.</l>
+            <l>Thou hadſt thy Malice ſure from the City's Scum,</l>
+            <l>Their Secretary of <hi>Advice</hi> from <hi>Rome;</hi>
+            </l>
+            <l>One that for common Knowledge is to ſeek;</l>
+            <l>A Plagiary of Sence as well as <hi>Greek:</hi>
+            </l>
+            <l>Who being by Nature ſcandalouſly dull,</l>
+            <l>With others Wit ſtill crams his empty Skull;</l>
+            <l>(Which poyſon'd) he ſpreads round to every Factious Fool:</l>
+            <l>Yet Mungrel-like, when e're the Jowler writes,</l>
+            <l>He only howls and grins, but never bites.</l>
+            <l>His Brandy-Satyrs are the mildeſt things</l>
+            <l>That ever Raill'd at Monarchy or Kings;</l>
+            <l>And thou deſerv'ſt the Rigour of the Laws,</l>
+            <l>For being his Second in ſo bad a Cauſe.</l>
+            <l>Hadſt thou her Modeſt Look or Beauty ſeen,</l>
+            <l>Heard her once ſpeak, or viewd her Graceful Meen;</l>
+            <l>Hadſt thou e're known her charming as the Spring,</l>
+            <l>Dance like a Goddeſs, like an Angel ſing,</l>
+            <l>She from thy curſed Cenſure had been free;</l>
+            <l>For thine own Satyr would have poyſon'd thee.</l>
+            <l>Yet ſtill thy Shame makes her more Glory have;</l>
+            <l>For Envy is the Touch-ſtone of the Brave;</l>
+            <l>And do's ſo little from their Fame purloin,</l>
+            <l>That it ſhews more the Value of the Coin.</l>
+            <l>Thus as by Envy Wit gains greater Sway,</l>
+            <l>As Froſty Winters make the Spring more gay,</l>
+            <l>As Souldiers by their Scars more Honour won,</l>
+            <l>As Clouds ſet off the Brightneſs of the Sun,</l>
+            <l>So do's <hi>Sophronia</hi> merit moſt Eſteem;</l>
+            <l>The Foyl ſtill adds a Luſtre to the Gem.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Seeres,</hi> 1681.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
